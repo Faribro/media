@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
+export const demoThumbnailUrl = 'https://ibb.co/60y5ctt';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoVideoUrl = 'https://www.youtube.com/@faridsayyed2218/about';
+export const demoChannelTitle = 'Faribro';
+export const demoVideoTitle = 'Learn Kickboxing in 1 Hour | Beginner Kickboxing Workout';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
